@@ -12,4 +12,4 @@ There are many ways you can help us make this project better. Every repository i
 
 - **help-wanted**: used when an issue or PR is up for grabs
 
-You can also help by translating documentation and reviewing open pull requests.
+You can help with reviewing the code and coming up with new features.
